@@ -16,6 +16,7 @@ This project is a Student Attendance Management System developed to manage and t
 
 * Java
 * (Spring Boot / Core Java / Thymeleaf / Maven Repository)
+* REST API
 * MySQL
 * HTML, CSS,JS
 
